@@ -10,18 +10,18 @@ jQuery(function($) {
   var i = 0;
   var k = 0;
   var months = [
-                ['00', 'January', 31],
-                ['01', 'February', 28],
-                ['02', 'March', 31],
-                ['03', 'April', 30],
-                ['04', 'May', 31],
-                ['05', 'June', 30],
-                ['06', 'July', 31],
-                ['07', 'August', 31],
-                ['08', 'September', 30],
-                ['09', 'October', 31],
-                ['10', 'November', 30],
-                ['11', 'December', 31]
+                ['01', 'January', 31],
+                ['02', 'February', 28],
+                ['03', 'March', 31],
+                ['04', 'April', 30],
+                ['05', 'May', 31],
+                ['06', 'June', 30],
+                ['07', 'July', 31],
+                ['08', 'August', 31],
+                ['09', 'September', 30],
+                ['10', 'October', 31],
+                ['11', 'November', 30],
+                ['12', 'December', 31]
                ];
   var days = [
                 [0, 'S', 'Sunday'],
